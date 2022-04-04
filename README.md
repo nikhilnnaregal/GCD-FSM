@@ -1,1 +1,1 @@
-# GCD-fsm
+# GCD-fsm-using-verilog
